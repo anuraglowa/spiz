@@ -43,7 +43,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenSettings, onGoDashboard })
             <div>
               <div className="flex items-center gap-1.5">
                 <h1 className="font-extrabold text-white text-base sm:text-lg tracking-tight">
-                  Pantry
+                  Spiż
                 </h1>
                 {isAdmin && (
                   <span className="px-1.5 py-0.2 rounded-md bg-amber-500/20 text-amber-300 border border-amber-500/40 text-[10px] font-extrabold">
